@@ -1,0 +1,12 @@
+#divContainer {
+    height: 960px;
+    width: 960px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cell {
+    width: 60px;
+    height: 60px;
+    box-sizing: border-box;
+}
