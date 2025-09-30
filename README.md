@@ -8,3 +8,6 @@ Devo aggiungere un popup in cima allo schermo che chiede all'utente di che dimen
 
 ## Costruire la griglia 16x16
 Costruisco il primo div container in html, lo collego al file js
+Creo una funzioen createGrid che prende in input il numero delle celle di un lato. successivamnete imposta un ciclo size*size in cui ad ogni iterazione viene creata una cella e attaccata al container.
+Ho anche applicato l'eventlistener a ogni cella per fare in modo che si colori di nero quando ci passo sopra il mouse 'mouseover'
+
